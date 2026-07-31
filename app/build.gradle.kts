@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.myapplication"
+    namespace = "com.example.FaizanAndroidApp"
     compileSdk {
         version = release(37) {
             minorApiLevel = 1
